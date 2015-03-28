@@ -14,6 +14,25 @@
 		362D6DC71AC68F0700AFB174 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 362D6DC61AC68F0700AFB174 /* Images.xcassets */; };
 		362D6DCA1AC68F0700AFB174 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 362D6DC81AC68F0700AFB174 /* LaunchScreen.xib */; };
 		362D6DD61AC68F0700AFB174 /* PlistAddTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 362D6DD51AC68F0700AFB174 /* PlistAddTests.m */; };
+		362D6DF21AC68F8900AFB174 /* emsp_hjy.plist in Resources */ = {isa = PBXBuildFile; fileRef = 362D6DDF1AC68F8900AFB174 /* emsp_hjy.plist */; };
+		362D6DF31AC68F8900AFB174 /* emsp_tymy.plist in Resources */ = {isa = PBXBuildFile; fileRef = 362D6DE01AC68F8900AFB174 /* emsp_tymy.plist */; };
+		362D6DF41AC68F8900AFB174 /* emsp_tymy1.plist in Resources */ = {isa = PBXBuildFile; fileRef = 362D6DE11AC68F8900AFB174 /* emsp_tymy1.plist */; };
+		362D6DF51AC68F8900AFB174 /* emsp.plist in Resources */ = {isa = PBXBuildFile; fileRef = 362D6DE21AC68F8900AFB174 /* emsp.plist */; };
+		362D6DF61AC68F8900AFB174 /* emspwfty.plist in Resources */ = {isa = PBXBuildFile; fileRef = 362D6DE31AC68F8900AFB174 /* emspwfty.plist */; };
+		362D6DF71AC68F8900AFB174 /* ioskyeyes.plist in Resources */ = {isa = PBXBuildFile; fileRef = 362D6DE41AC68F8900AFB174 /* ioskyeyes.plist */; };
+		362D6DF81AC68F8900AFB174 /* ioskyeyesatcs.plist in Resources */ = {isa = PBXBuildFile; fileRef = 362D6DE51AC68F8900AFB174 /* ioskyeyesatcs.plist */; };
+		362D6DF91AC68F8900AFB174 /* jinhetao.plist in Resources */ = {isa = PBXBuildFile; fileRef = 362D6DE61AC68F8900AFB174 /* jinhetao.plist */; };
+		362D6DFA1AC68F8900AFB174 /* kesaijinong.plist in Resources */ = {isa = PBXBuildFile; fileRef = 362D6DE71AC68F8900AFB174 /* kesaijinong.plist */; };
+		362D6DFB1AC68F8900AFB174 /* LiFengMove.plist in Resources */ = {isa = PBXBuildFile; fileRef = 362D6DE81AC68F8900AFB174 /* LiFengMove.plist */; };
+		362D6DFC1AC68F8900AFB174 /* Logitech.plist in Resources */ = {isa = PBXBuildFile; fileRef = 362D6DE91AC68F8900AFB174 /* Logitech.plist */; };
+		362D6DFD1AC68F8900AFB174 /* LogitechCeShi.plist in Resources */ = {isa = PBXBuildFile; fileRef = 362D6DEA1AC68F8900AFB174 /* LogitechCeShi.plist */; };
+		362D6DFE1AC68F8900AFB174 /* luhua.plist in Resources */ = {isa = PBXBuildFile; fileRef = 362D6DEB1AC68F8900AFB174 /* luhua.plist */; };
+		362D6DFF1AC68F8900AFB174 /* OfficeAssistant.plist in Resources */ = {isa = PBXBuildFile; fileRef = 362D6DEC1AC68F8900AFB174 /* OfficeAssistant.plist */; };
+		362D6E001AC68F8900AFB174 /* qdemsp.plist in Resources */ = {isa = PBXBuildFile; fileRef = 362D6DED1AC68F8900AFB174 /* qdemsp.plist */; };
+		362D6E011AC68F8900AFB174 /* qdyd.plist in Resources */ = {isa = PBXBuildFile; fileRef = 362D6DEE1AC68F8900AFB174 /* qdyd.plist */; };
+		362D6E021AC68F8900AFB174 /* tytalk.plist in Resources */ = {isa = PBXBuildFile; fileRef = 362D6DEF1AC68F8900AFB174 /* tytalk.plist */; };
+		362D6E031AC68F8900AFB174 /* wwg.plist in Resources */ = {isa = PBXBuildFile; fileRef = 362D6DF01AC68F8900AFB174 /* wwg.plist */; };
+		362D6E041AC68F8900AFB174 /* zgt.plist in Resources */ = {isa = PBXBuildFile; fileRef = 362D6DF11AC68F8900AFB174 /* zgt.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +59,25 @@
 		362D6DCF1AC68F0700AFB174 /* PlistAddTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PlistAddTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		362D6DD41AC68F0700AFB174 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		362D6DD51AC68F0700AFB174 /* PlistAddTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PlistAddTests.m; sourceTree = "<group>"; };
+		362D6DDF1AC68F8900AFB174 /* emsp_hjy.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = emsp_hjy.plist; sourceTree = "<group>"; };
+		362D6DE01AC68F8900AFB174 /* emsp_tymy.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = emsp_tymy.plist; sourceTree = "<group>"; };
+		362D6DE11AC68F8900AFB174 /* emsp_tymy1.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = emsp_tymy1.plist; sourceTree = "<group>"; };
+		362D6DE21AC68F8900AFB174 /* emsp.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = emsp.plist; sourceTree = "<group>"; };
+		362D6DE31AC68F8900AFB174 /* emspwfty.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = emspwfty.plist; sourceTree = "<group>"; };
+		362D6DE41AC68F8900AFB174 /* ioskyeyes.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ioskyeyes.plist; sourceTree = "<group>"; };
+		362D6DE51AC68F8900AFB174 /* ioskyeyesatcs.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ioskyeyesatcs.plist; sourceTree = "<group>"; };
+		362D6DE61AC68F8900AFB174 /* jinhetao.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = jinhetao.plist; sourceTree = "<group>"; };
+		362D6DE71AC68F8900AFB174 /* kesaijinong.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = kesaijinong.plist; sourceTree = "<group>"; };
+		362D6DE81AC68F8900AFB174 /* LiFengMove.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = LiFengMove.plist; sourceTree = "<group>"; };
+		362D6DE91AC68F8900AFB174 /* Logitech.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Logitech.plist; sourceTree = "<group>"; };
+		362D6DEA1AC68F8900AFB174 /* LogitechCeShi.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = LogitechCeShi.plist; sourceTree = "<group>"; };
+		362D6DEB1AC68F8900AFB174 /* luhua.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = luhua.plist; sourceTree = "<group>"; };
+		362D6DEC1AC68F8900AFB174 /* OfficeAssistant.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = OfficeAssistant.plist; sourceTree = "<group>"; };
+		362D6DED1AC68F8900AFB174 /* qdemsp.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = qdemsp.plist; sourceTree = "<group>"; };
+		362D6DEE1AC68F8900AFB174 /* qdyd.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = qdyd.plist; sourceTree = "<group>"; };
+		362D6DEF1AC68F8900AFB174 /* tytalk.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = tytalk.plist; sourceTree = "<group>"; };
+		362D6DF01AC68F8900AFB174 /* wwg.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = wwg.plist; sourceTree = "<group>"; };
+		362D6DF11AC68F8900AFB174 /* zgt.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = zgt.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +134,25 @@
 		362D6DB91AC68F0700AFB174 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				362D6DDF1AC68F8900AFB174 /* emsp_hjy.plist */,
+				362D6DE01AC68F8900AFB174 /* emsp_tymy.plist */,
+				362D6DE11AC68F8900AFB174 /* emsp_tymy1.plist */,
+				362D6DE21AC68F8900AFB174 /* emsp.plist */,
+				362D6DE31AC68F8900AFB174 /* emspwfty.plist */,
+				362D6DE41AC68F8900AFB174 /* ioskyeyes.plist */,
+				362D6DE51AC68F8900AFB174 /* ioskyeyesatcs.plist */,
+				362D6DE61AC68F8900AFB174 /* jinhetao.plist */,
+				362D6DE71AC68F8900AFB174 /* kesaijinong.plist */,
+				362D6DE81AC68F8900AFB174 /* LiFengMove.plist */,
+				362D6DE91AC68F8900AFB174 /* Logitech.plist */,
+				362D6DEA1AC68F8900AFB174 /* LogitechCeShi.plist */,
+				362D6DEB1AC68F8900AFB174 /* luhua.plist */,
+				362D6DEC1AC68F8900AFB174 /* OfficeAssistant.plist */,
+				362D6DED1AC68F8900AFB174 /* qdemsp.plist */,
+				362D6DEE1AC68F8900AFB174 /* qdyd.plist */,
+				362D6DEF1AC68F8900AFB174 /* tytalk.plist */,
+				362D6DF01AC68F8900AFB174 /* wwg.plist */,
+				362D6DF11AC68F8900AFB174 /* zgt.plist */,
 				362D6DBA1AC68F0700AFB174 /* Info.plist */,
 				362D6DBB1AC68F0700AFB174 /* main.m */,
 			);
@@ -199,9 +256,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				362D6DF31AC68F8900AFB174 /* emsp_tymy.plist in Resources */,
+				362D6DFA1AC68F8900AFB174 /* kesaijinong.plist in Resources */,
 				362D6DC51AC68F0700AFB174 /* Main.storyboard in Resources */,
+				362D6E021AC68F8900AFB174 /* tytalk.plist in Resources */,
+				362D6DF41AC68F8900AFB174 /* emsp_tymy1.plist in Resources */,
+				362D6DFE1AC68F8900AFB174 /* luhua.plist in Resources */,
+				362D6DF81AC68F8900AFB174 /* ioskyeyesatcs.plist in Resources */,
+				362D6E031AC68F8900AFB174 /* wwg.plist in Resources */,
 				362D6DCA1AC68F0700AFB174 /* LaunchScreen.xib in Resources */,
+				362D6DFB1AC68F8900AFB174 /* LiFengMove.plist in Resources */,
+				362D6DF51AC68F8900AFB174 /* emsp.plist in Resources */,
 				362D6DC71AC68F0700AFB174 /* Images.xcassets in Resources */,
+				362D6E001AC68F8900AFB174 /* qdemsp.plist in Resources */,
+				362D6DF21AC68F8900AFB174 /* emsp_hjy.plist in Resources */,
+				362D6E041AC68F8900AFB174 /* zgt.plist in Resources */,
+				362D6DFF1AC68F8900AFB174 /* OfficeAssistant.plist in Resources */,
+				362D6DF91AC68F8900AFB174 /* jinhetao.plist in Resources */,
+				362D6E011AC68F8900AFB174 /* qdyd.plist in Resources */,
+				362D6DF71AC68F8900AFB174 /* ioskyeyes.plist in Resources */,
+				362D6DF61AC68F8900AFB174 /* emspwfty.plist in Resources */,
+				362D6DFC1AC68F8900AFB174 /* Logitech.plist in Resources */,
+				362D6DFD1AC68F8900AFB174 /* LogitechCeShi.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -344,6 +420,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = PlistAdd/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -354,6 +431,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = PlistAdd/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
